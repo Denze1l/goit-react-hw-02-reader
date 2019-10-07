@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-02-reader/./static/css/main.c316903e.chunk.css",
+    "main.js": "/goit-react-hw-02-reader/./static/js/main.dd9d08ea.chunk.js",
+    "main.js.map": "/goit-react-hw-02-reader/./static/js/main.dd9d08ea.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-02-reader/./static/js/runtime-main.b5b7f4be.js",
+    "runtime-main.js.map": "/goit-react-hw-02-reader/./static/js/runtime-main.b5b7f4be.js.map",
+    "static/js/2.301b5521.chunk.js": "/goit-react-hw-02-reader/./static/js/2.301b5521.chunk.js",
+    "static/js/2.301b5521.chunk.js.map": "/goit-react-hw-02-reader/./static/js/2.301b5521.chunk.js.map",
+    "index.html": "/goit-react-hw-02-reader/./index.html",
+    "precache-manifest.37f88c29e10b730ed7a8ec97fcde31ac.js": "/goit-react-hw-02-reader/./precache-manifest.37f88c29e10b730ed7a8ec97fcde31ac.js",
+    "service-worker.js": "/goit-react-hw-02-reader/./service-worker.js",
+    "static/css/main.c316903e.chunk.css.map": "/goit-react-hw-02-reader/./static/css/main.c316903e.chunk.css.map"
+  }
+}
