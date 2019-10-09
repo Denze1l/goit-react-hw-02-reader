@@ -24,7 +24,11 @@ class Reader extends Component {
     const { step } = this.state;
     return (
       <div className={Style.reader}>
-        <Controls handelPlus={this.handelPlus} handelMinus={this.handelMinus} />
+        <Controls
+          handelPlus={this.handelPlus}
+          step={step}
+          handelMinus={this.handelMinus}
+        />
         <Counter state={this.state} />
         <Publications step={step} items={PubList} />
       </div>
