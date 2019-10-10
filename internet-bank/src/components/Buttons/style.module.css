@@ -20,6 +20,11 @@
   background-color: rgb(47, 47, 243);
 }
 
+.button[disabled] {
+  pointer-events: none;
+  background-color: #bdbdbd;
+}
+
 .controls {
   padding-top: 40px;
   width: 60%;
